@@ -98,7 +98,7 @@ body {
 }
 
   .tlacitko1 a, .tlacitko2 a{
-    color: white;
+    color:white;
 	text-decoration: none;
 	}
 	
@@ -114,10 +114,10 @@ body {
 	
 	}
 
- .tlacitko1 a:hover , .tlacitko2 a:hover{
-	background-color: #48418e;
-	
- }
+ .tlacitka :hover {
+	background-color:#48418e;
+
+}
 
 
 .sloupce{
